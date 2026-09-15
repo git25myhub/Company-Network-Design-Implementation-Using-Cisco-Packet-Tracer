@@ -6,7 +6,7 @@
 ![Lab Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
 <p align="center">
-  <img src="Screenshots/topology.png" alt="Company Network Design Topology" width="100%">
+  <img src="screenshots/topology.png" alt="Company Network Design Topology" width="100%">
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ The topology is designed around a routed core connected to two ISP routers and m
 ### Topology Diagram
 
 <p align="center">
-  <img src="Screenshots/topology.png" alt="Company Network Design Topology" width="100%">
+  <img src="screenshots/topology.png" alt="Company Network Design Topology" width="100%">
 </p>
 ---
 
