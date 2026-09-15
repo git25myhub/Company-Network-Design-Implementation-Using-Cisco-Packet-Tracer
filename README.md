@@ -1,10 +1,17 @@
-# 🌐 Enterprise Network Infrastructure & OSPF Routing Lab
+# 🌐 Company Network Design & Implementation Using Cisco Packet Tracer Lab
 
 ![Cisco Networking](https://img.shields.io/badge/Cisco-Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco)
 ![Routing](https://img.shields.io/badge/Routing-OSPF-success?style=for-the-badge)
 ![Switching](https://img.shields.io/badge/Switching-VLAN%20%7C%20Trunking-orange?style=for-the-badge)
 ![Lab Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
+<p align="center">
+  <img src="Screenshots/topology.png" alt="Company Network Design Topology" width="100%">
+</p>
+
+<p align="center">
+  <b>A structured, secure, and scalable hospital network designed and implemented using Cisco Packet Tracer.</b>
+</p>
 ## 📌 Overview
 
 This lab demonstrates the design and configuration of a multi-router enterprise network using **Cisco Packet Tracer**.
@@ -38,10 +45,9 @@ The topology is designed around a routed core connected to two ISP routers and m
 
 ### Topology Diagram
 
-![Enterprise Network Topology](Screenshots/topology.png)
-
-> **Note:** Place the topology screenshot inside the repository's `Screenshots` folder and name it `topology.png`. If your filename is different, update the image path above.
-
+<p align="center">
+  <img src="Screenshots/topology.png" alt="Company Network Design Topology" width="100%">
+</p>
 ---
 
 # 🏗️ Network Architecture
